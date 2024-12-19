@@ -1,4 +1,4 @@
-# Base Nord Template
+# Base Nord NixVim Template
 
 This template gives you a good starting point for configuring nixvim standalone.
 
